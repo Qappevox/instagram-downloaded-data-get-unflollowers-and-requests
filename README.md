@@ -10,7 +10,7 @@ This script helps you check who unfollowed you on Instagram by comparing your fo
 <li>Extract the zip file and locate the "followers_1.json", "following.json", and "follow_requests_you've_received.json" files.</li>
 <li>Place these files in the same directory as the script.</li>
 <li>Run the script.</li>
-#Output
+# Output
 The script will create two files:
 
 <li>"unfollowers.txt": A list of the people who have unfollowed you on Instagram.</li>
