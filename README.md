@@ -25,3 +25,5 @@ Note: If there are no unfollowers or follow requests, the files will be created 
 
 # Disclaimer
 This script is for personal use only. Use it at your own risk. The author is not responsible for any misuse or damage caused by this script.
+
+(html version added.)
