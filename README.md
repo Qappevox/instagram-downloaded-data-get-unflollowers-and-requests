@@ -5,7 +5,7 @@ This script helps you check who unfollowed you on Instagram by comparing your fo
 <li>Python 3</li>
 <li>Instagram data in JSON format</li>
 
-# Usage<
+# Usage
 <li>Request your Instagram data from the app</li>
 <li>Extract the zip file and locate the "followers_1.json", "following.json", and "follow_requests_you've_received.json" files.</li>
 <li>Place these files in the same directory as the script.</li>
